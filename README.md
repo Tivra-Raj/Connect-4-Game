@@ -3,7 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="style.css">
+  <title>My Colored Text Markdown</title>
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <!-- Your Markdown content goes here -->
@@ -11,6 +12,7 @@
   <p class="blue-text">This text will be blue</p>
 </body>
 </html>
+
 
 
 - Connect Four (also known as Connect 4, Four Up, Plot Four, Find Four, Captain's Mistress, Four in a Row, Drop Four, and Gravitrips in the Soviet Union) is a two-player connection rack game, in which the players choose a color and then take turns dropping colored tokens into a seven-column, six-row vertically suspended grid. 
