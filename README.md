@@ -1,6 +1,6 @@
 # Connect-4-Game
 
-This is <span style="color:red;">red text</span>.
+This is <span style="#FF0000">red text</span>.
 This is <span style="color:blue;">blue text</span>.
 
 
